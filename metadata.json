@@ -1,12 +1,12 @@
 {
   "name": "lex-dnsmasq",
-  "version": "2.6.1",
+  "version": "v2.6.2",
   "author": "Lex Rivera <me@lex.io>",
   "license": "CC-BY-4.0",
   "summary": "Puppet dnsmasq management module",
-  "source": "https://github.com/rlex/puppet-dnsmasq",
+  "source": "https://github.com/flepoutre/puppet-dnsmasq",
   "project_page": "https://github.com/flepoutre/puppet-dnsmasq",
-  "issues_url": "https://github.com/rlex/puppet-dnsmasq/issues",
+  "issues_url": "https://github.com/flepoutre/puppet-dnsmasq",
   "tags": ["dns", "dhcp", "dnsmasq", "ubuntu", "debian", "ipv4", "ipv6", "redhat", "freebsd", "centos", "rhel"],
   "operatingsystem_support": [
     {
