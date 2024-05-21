@@ -1,6 +1,6 @@
 {
   "name": "lex-dnsmasq",
-  "version": "v2.6.3",
+  "version": "v2.6.2",
   "author": "Lex Rivera <me@lex.io>",
   "license": "CC-BY-4.0",
   "summary": "Puppet dnsmasq management module",
